@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "//kyhaidang.github.io/dog-products/static/css/main.57a9c802.css",
+    "main.js": "//kyhaidang.github.io/dog-products/static/js/main.cf32f830.js",
+    "static/media/slick.svg": "//kyhaidang.github.io/dog-products/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "//kyhaidang.github.io/dog-products/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "//kyhaidang.github.io/dog-products/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "//kyhaidang.github.io/dog-products/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "//kyhaidang.github.io/dog-products/index.html",
+    "main.57a9c802.css.map": "//kyhaidang.github.io/dog-products/static/css/main.57a9c802.css.map",
+    "main.cf32f830.js.map": "//kyhaidang.github.io/dog-products/static/js/main.cf32f830.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a9c802.css",
+    "static/js/main.cf32f830.js"
+  ]
+}
